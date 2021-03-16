@@ -4,7 +4,9 @@ Repositório criado para construção de aplicativo que permitirá o eleitor bra
 
 ## para baixar, instalar e ativar o ambiente vitual do código
 
+"""ações
 git clone git@github.com:GetulioCastro/urna_mobile.git
 pip install pipenv
 pipenv sync -d
 pipenv shell
+"""
