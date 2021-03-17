@@ -1,1 +1,1 @@
-web: gunicorn urnamobile.wsgi --log-file-
+web: gunicorn urnamobile.wsgi --log-file -
