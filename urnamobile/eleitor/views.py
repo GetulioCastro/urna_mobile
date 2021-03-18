@@ -5,4 +5,3 @@ from django.http import HttpResponse
 
 def eleitor(request):
     return HttpResponse("Hello, World! Vocẽ é o eleitor pioneiro neste aplicativo.")
-
