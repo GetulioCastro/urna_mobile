@@ -10,3 +10,9 @@ pip install pipenv
 pipenv sync -d
 pipenv shell
 ```
+
+## link para acessar a aplicação no heroku
+
+```link
+https://urnamobile1.herokuapp.com/
+```
